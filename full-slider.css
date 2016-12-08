@@ -1,0 +1,231 @@
+/*
+ * Start Bootstrap - Full Slider (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+html,
+body {
+    height: 100%;
+}
+
+.carousel,
+.item,
+.active {
+    height: 760px;
+}
+
+.carousel-inner {
+    height: 100%;
+}
+
+/* Background images are set within the HTML using inline CSS, not here */
+
+.fill {
+    width: 95%;
+    height: 100%;
+    background-position: center;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  background-size: contain;
+  -o-background-size: contain;
+  background-repeat: no-repeat;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+#navbar
+{font-size: 30px;}
+
+
+header {
+  background-color: black;
+}
+
+
+
+<style type="text/css">.members-like-you {
+  border-top: 0px;
+}
+
+.membership-text-ask {
+  text-transform: uppercase;
+  color: #ff6900;
+  text-align: center;
+  font-family: Mallory;
+}
+.membership-text-ask a {
+  background-image: none!important;
+  border-bottom: 1px solid black;
+  Color: #ff6900;
+}
+.membership-text-ask a:hover {
+  Border-bottom: 1px solid #ff6900;
+}
+
+.end-of-article-credit em {
+  font-style: normal;
+}
+
+h3.subhed {
+  clear: both;
+}
+h3.chapter-title {
+  font-family: calluna, serif;
+  font-size: 400px;
+}
+.node-inner .caption strong,
+.node-inner .caption a strong {
+  font-size: 18px;
+  line-height: 20px;
+}
+.credit-block {
+  padding: 10px;
+  background-color: #cfcfcf;
+  text-align: center;
+}
+#node-body-top .credit-block  p {
+  margin-right: 0;
+  font-size: 12px;
+  line-height: 14px;
+}
+.credit-block h5 {
+  font-weight: normal;
+  font-size: 10px;
+}
+#node-body-top .credit-block p a,
+.credit-block p a {
+  text-shadow: none;
+}
+
+.vimeo_swap p {
+  width: 100%;
+  text-align: center;
+}
+.vimeo_swap a {
+  font-size: 25px;
+  text-shadow: none!important;
+}
+
+.node-type-full-width-article .node-inner .pullquote-left {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.node-type-full-width-article #pager-inner .pullquote-left,
+.node-type-full-width-article .node-inner .pullquote-left {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  letter-spacing: 0px;
+  font-family: Calluna, serif;
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  text-transform: uppercase;
+  font-size: 24px;
+  text-align: center;
+  font-style: normal;
+  Line-height: 28px;
+}
+
+
+
+.node .node-content  p {
+  line-height: 26px;
+}
+.chapter-drop-cap {
+  font-size: 100px;
+  display: block;
+  float: left;
+  margin-top: 29px;
+  font-family: mallory, sans-serif;
+  font-weight: bold;
+}
+.right-rail {
+  text-align: center;
+}
+@media screen and (min-width: 630px) {
+  .right-rail {
+    width: 250px;
+    float: right;
+  }
+  #full-width-overlay-node-header {
+    display: none;
+  }
+
+}
+.right-rail ul {
+  list-style: none;
+  padding-left: 0;
+}
+.node .right-rail li {
+  padding: 5px 10px;
+  border-top: 1px solid #ff6900;
+}
+
+.chapter-nav {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+  Border: 1px solid #ccc;
+  Border-width: 1px 0;
+  Background-color: white;
+  Display: table;
+  Width: 100%;
+}
+.chapter-nav li { 
+  display: table-cell;
+  width: 20%;
+  text-align: center;
+}
+.chapter-nav a {
+  color: black;
+  background-image: none!important;
+}
+.chapter-nav li:hover a, .chapter-nav {
+  color: #cc0000!important;
+}
+.chapter-nav li h5{
+  font-size: 9px;
+  margin: 0;
+}
+.chapter-nav li .chapter-title{
+  font-size: 17px;
+  display: none;
+}
+.node-content .chapter-nav li {
+  padding: 0;
+}
+@media screen and (min-width: 960px) {
+  .chapter-nav li .chapter-title {
+    display: block;
+  }
+  .chapter-nav li { 
+    padding: 20px 0;
+  }
+  .chapter-nav li h5 {
+    font-size: 12px;
+    margin: 20 0;
+  }
+
+}
+@media screen and (max-width: 630px) {
+  .mobile-css-hide {
+    display: none;
+  }
+  h3.chapter-title {
+    font-size: 28px;
+  }
+}
+.author-bio {display: none;}</style><!--[if (gte IE 8.0)&(lte IE 8.9)]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/denali/ie8.css?e" />
+<![endif]-->
+<!--[if lte IE 7.9]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/denali/ie7.css?e" />
+<![endif]-->
+<!--[if lte IE 6.9]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/denali/ie6.css?e" />
+<![endif]-->
+
+<script type="text/javascript" src="http://www.motherjones.com/files/js/js_ab5a3f557876c23c335682c5c606d647.js"></script>
+<script type="text/javascript">
