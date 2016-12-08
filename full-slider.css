@@ -12,7 +12,7 @@ body {
 .carousel,
 .item,
 .active {
-    height: 1350px;
+    height: 1300px;
 }
 
 .carousel-inner {
